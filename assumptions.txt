@@ -1,0 +1,10 @@
+Machine instructions are case-insensitive
+After the ORIGIN instruction, only one word can follow (the math expression should be one word including the symbol)
+The ORIGIN instruction can only include following opcode:
+    constant
+    symbol (not literals) and a + if necessary (written without whitespace)
+EQU operates only on symbols
+DC is not used
+No comments are allowed
+After LTORG, it is optional to write literals that are not assigned addresses are written, each on a separate line
+END is the last instruction, and literals that are not assigned addresses are assigned addresses 
