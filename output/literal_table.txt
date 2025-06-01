@@ -1,5 +1,5 @@
 Literal Table:
-ID	Literal	Address
-1	='5'	206
-2	='1'	207
-3	='1'	213
+ID   Literal    Address
+1    ='5'       206    
+2    ='1'       207    
+3    ='1'       213    

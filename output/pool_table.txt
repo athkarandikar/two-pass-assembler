@@ -1,4 +1,4 @@
 Pool Table:
-ID	Lit. ID	Pool Length
-1	1	2
-2	3	1
+ID   Lit. ID  Pool Length
+1    1        2          
+2    3        1          

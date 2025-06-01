@@ -1,8 +1,8 @@
 Symbol Table:
-ID, Symbol, Address
-1, A, 211
-2, LOOP, 202
-3, B, 212
-4, NEXT, 208
-5, BACK, 202
-6, LAST, 210
+ID   Symbol     Address
+1    A          211    
+2    LOOP       202    
+3    B          212    
+4    NEXT       208    
+5    BACK       202    
+6    LAST       210    
