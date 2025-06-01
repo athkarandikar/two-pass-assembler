@@ -7,4 +7,4 @@ EQU operates only on symbols
 DC is not used
 No comments are allowed
 After LTORG, it is optional to write literals that are not assigned addresses are written, each on a separate line
-END is the last instruction, and literals that are not assigned addresses are assigned addresses 
+END is the last instruction, and literals that are not assigned addresses are assigned addresses
