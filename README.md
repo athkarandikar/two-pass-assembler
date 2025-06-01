@@ -7,11 +7,11 @@ Implementation of the first pass of the two-pass assembler in Java.
 - Pool table
 - Intermediate code
 
-A few assumptions are made for the assembly code input. Read them [here](https://github.com/athkarandikar/two-pass-assembler/blob/main/assumptions.txt).
+A few assumptions are made for the assembly code input. Read them [here](https://github.com/athkarandikar/two-pass-assembler-pass-one/blob/main/assumptions.txt).
 
 # Input and Output
-Input is an assembly file (ending with asm extension) located in the [input](https://github.com/athkarandikar/two-pass-assembler/blob/main/input) directory.  
-Output consists of 4 files in the [output](https://github.com/athkarandikar/two-pass-assembler/blob/main/output) directory: literal table, symbol table, pool table, and intermediate code.
+Input is an assembly file (ending with asm extension) located in the [input](https://github.com/athkarandikar/two-pass-assembler-pass-one/blob/main/input) directory.  
+Output consists of 4 files in the [output](https://github.com/athkarandikar/two-pass-assembler-pass-one/blob/main/output) directory: literal table, symbol table, pool table, and intermediate code.
 
 ### Sample Input
 
